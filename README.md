@@ -20,9 +20,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
+
 ------------------------------
 ![MS-SQL Server](https://img.shields.io/badge/-MS--SQL_Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![.NET Framework](https://img.shields.io/badge/-.NET_Framework-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
