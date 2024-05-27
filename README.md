@@ -32,3 +32,4 @@
 ![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
 ![EF Core](https://img.shields.io/badge/-EF_Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+------------------------------
