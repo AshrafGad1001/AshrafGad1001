@@ -25,7 +25,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-------------------------------
 ![MS-SQL Server](https://img.shields.io/badge/-MS--SQL_Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![.NET Framework](https://img.shields.io/badge/-.NET_Framework-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
