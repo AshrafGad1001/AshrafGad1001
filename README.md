@@ -3,7 +3,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Junior+.NET+Backend+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Junior+.NET+Developer" alt="Typing SVG" /></a>
 
 -  Currently pursuing my studies in Computer Science.
 -  My fascination with .NET technology has led me to delve deep into its versatile framework and tools.
