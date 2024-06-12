@@ -22,8 +22,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
 
 ![MS-SQL Server](https://img.shields.io/badge/-MS--SQL_Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
 ![.NET Framework](https://img.shields.io/badge/-.NET_Framework-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
@@ -32,4 +31,6 @@
 ![EF Core](https://img.shields.io/badge/-EF_Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
