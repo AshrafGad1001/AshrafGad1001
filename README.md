@@ -39,3 +39,4 @@
 
 ------------------------------
 
+<a href="https://github.com/ashrafgad1001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafgad1001&layout=compact&theme=buefy&hide_border=true" /></a> 
