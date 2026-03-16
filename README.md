@@ -9,7 +9,7 @@
 -  My fascination with .NET technology has led me to delve deep into its versatile framework and tools.
 
 
-[![LinkedIn](https://img.shields.io/badge/Ashraf%20Gad-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashrafg55/)
+[![LinkedIn](https://img.shields.io/badge/Ashraf%20Gad-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-alaa-gad/)
 [![Telegram](https://img.shields.io/badge/-Ashraf%20Gad-0077B5?style=flat&logo=Telegram&logoColor=white)](https://t.me/AshrafG55)
 [![WhatsApp](https://img.shields.io/badge/-Ashraf%20Gad-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/201553585239)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AshrafG55?style=social&logo=twitter)](https://twitter.com/AshrafG55)
