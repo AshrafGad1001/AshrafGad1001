@@ -5,8 +5,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Junior+.NET+Developer" alt="Typing SVG" /></a>
 
--  Currently pursuing my studies in Computer Science.
--  My fascination with .NET technology has led me to delve deep into its versatile framework and tools.
+<!-- -  Currently pursuing my studies in Computer Science.-->
+<!-- -  My fascination with .NET technology has led me to delve deep into its versatile framework and tools.-->
 
 
 [![LinkedIn](https://img.shields.io/badge/Ashraf%20Gad-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-alaa-gad/)
@@ -15,7 +15,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/AshrafG55?style=social&logo=twitter)](https://twitter.com/AshrafG55)
 
 ------------------------------
-### 🖥️  Tech Stack
+###  Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -23,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=3178C6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;
+<!--![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=DD0031)&nbsp;-->
 
 
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
