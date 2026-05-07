@@ -3,7 +3,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Junior+.NET+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Junior+Web+Developer" alt="Typing SVG" /></a>
 
 <!-- -  Currently pursuing my studies in Computer Science.-->
 <!-- -  My fascination with .NET technology has led me to delve deep into its versatile framework and tools.-->
@@ -39,4 +39,4 @@
 
 ------------------------------
 
-<a href="https://github.com/ashrafgad1001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafgad1001&layout=compact&theme=buefy&hide_border=true" /></a> 
+<!--<a href="https://github.com/ashrafgad1001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafgad1001&layout=compact&theme=buefy&hide_border=true" /></a> -->
