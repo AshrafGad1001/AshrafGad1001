@@ -38,5 +38,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 ------------------------------
-
+<a href="https://github.com/ashrafgad1001">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafgad1001&theme=solarized_dark" />
+</a>
 <!--<a href="https://github.com/ashrafgad1001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafgad1001&layout=compact&theme=buefy&hide_border=true" /></a> -->
