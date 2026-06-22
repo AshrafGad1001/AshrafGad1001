@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20Ashraf%20Gad's%20Profile!-05122A?style=for-the-badge&logoColor=white&labelColor=05122A" height="50" />
-</p>
+<h1 align="center">Hi, I'm Ashraf Gad</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Junior+Web+Developer;MERN+Stack+Specialist;Node.js+%7C+React.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+</p>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a  href="https://git.io/typing-svg">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=+Junior+Web+Developer" alt="Typing SVG" />
-</a>
+
 
 <!-- -  Currently pursuing my studies in Computer Science.-->
 <!-- -  My fascination with .NET technology has led me to delve deep into its versatile framework and tools.-->
@@ -62,7 +61,26 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
 ------------------------------
-<a href="https://github.com/ashrafgad1001">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafgad1001&theme=solarized_dark" />
-</a>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafgad1001&theme=solarized_dark" />
+      <!-- <br> -->
+      <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafgad1001&theme=solarized_dark" />  -->
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafgad1001&theme=solarized_dark" />
+    </td>
+  </tr>
+</table>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafgad1001&theme=github-dark" />
+
+<!-- GitHub Stats -->
+ 
+
+
+
+
+
 <!--<a href="https://github.com/ashrafgad1001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafgad1001&layout=compact&theme=buefy&hide_border=true" /></a> -->
